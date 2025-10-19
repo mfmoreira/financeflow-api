@@ -34,7 +34,7 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-reflect")
 
     // Database migration
-    implementation("org.flywaydb:flyway-core:11.11.0")
+    implementation("org.flywaydb:flyway-core:9.22.0")
     runtimeOnly("org.postgresql:postgresql")
 
     // Testing dependencies
