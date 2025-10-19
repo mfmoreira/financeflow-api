@@ -1,4 +1,4 @@
-package com.financeflow.api.config
+package com.financeflow.api.security
 
 import com.financeflow.api.service.UserService
 import jakarta.servlet.FilterChain

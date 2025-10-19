@@ -1,5 +1,6 @@
 package com.financeflow.api.config
 
+import com.financeflow.api.security.JwtFilter
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
 import org.springframework.security.config.annotation.web.builders.HttpSecurity

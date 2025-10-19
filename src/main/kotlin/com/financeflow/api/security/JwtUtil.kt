@@ -1,4 +1,4 @@
-package com.financeflow.api.config
+package com.financeflow.api.security
 
 import io.jsonwebtoken.Jwts
 import io.jsonwebtoken.SignatureAlgorithm
