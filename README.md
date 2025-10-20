@@ -38,3 +38,8 @@ Consultar dados de uma tabela (exemplo users): SELECT * FROM users;
 - accounts
 - transactions
 
+# Rodar apenas código Kotlin:
+.\run.ps1 -type code
+# Rodar apenas configuração (banco de dados e dependências):
+.\run.ps1 -type config
+
